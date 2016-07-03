@@ -1,2 +1,2 @@
-# 2d-game-eng
-2d game eng in java
+# 2D-game-engine
+2D game engine in java (netbeans)
